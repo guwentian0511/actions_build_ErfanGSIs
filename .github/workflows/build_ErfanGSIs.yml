@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://bigota.d.miui.com/V12.0.4.0.PEFCNXM/miui_HMS2_V12.0.4.0.PEFCNXM_b220c0a02e_9.0.zip
   ROM_NAME: miui
-  BUILD_TYPE: onlyA
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
