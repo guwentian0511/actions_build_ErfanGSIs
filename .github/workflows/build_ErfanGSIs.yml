@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/15/8.0.5.0/cn/20210616123154/a1e7a1d5/update.zip
+  ROM_URL: https://aabplff6m4zueosfywuxvrbmmk6vi888.node.ppio.cloud:35672/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/15/8.0.5.0/cn/20210616123154/a1e7a1d5/update.zip?f_ver=v1&max_age=7776000&r=XUEuPzpIZBggBQElODEDBBtYPyYzB2VUKQFcDiYiHBZURz9gDx4yWiNDQn1gaF9RGwB0f2YRJRh0XEF5f2ZAVwQHaX58RmRWdwlEKX40RE5ART4uPRdlTS8cWkU%2FISoWJQYpHBYmLDQfUA%3D%3D&ppiouid=623ad3bbe8d394000197ed4078f2567b
   ROM_NAME: flyme
   BUILD_TYPE: onlyA
   TZ: Asia/Shanghai
