@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.4.0.PEFCNXM/miui_HMS2_V12.0.4.0.PEFCNXM_b220c0a02e_9.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://download.h2os.com/OnePlus6/MP/OnePlus6Hydrogen_22.K.51_OTA_051_all_2105262251_6fed6a93c6c54103.zip
+  ROM_NAME: OxygenOS
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
@@ -59,7 +59,7 @@ jobs:
          run: |
               cd $GITHUB_WORKSPACE/ErfanGSIs/output
               curl -sL https://git.io/file-transfer | sh
-              ./transfer gof ./final/GSI.zip
+              ./transfer wet ./final/GSI.zip
 
          
             
